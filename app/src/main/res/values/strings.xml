@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SamsungAutoInstall</string>
+    <string name="accessibility_service_description">Samsung Auto Install Service</string>
+    <string name="title_activity_service_setting">ServiceSettingActivity</string>
+</resources>
